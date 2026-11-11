@@ -1,7 +1,7 @@
 /*
 Theme Name: Save the Planet
 Description: Minimalistic block theme for non-profits and eco-friendly businesses
-Version: 0.1.0
+Version: 3
 Requires at least: 6.6
 Tested up to: 7.1
 Requires PHP: 7.4
@@ -12,20 +12,20 @@ Tags: full-site-editing, block-patterns, e-commerce, accessibility-ready, wide-b
 */
 
 body {
-	background-color: #f7f7f7;
+	background-color: #8B9467;
 	font-family: Arial, sans-serif;
 }
 
 a {
-	color: #337ab7;
+	color: #2ECC71;
 }
 
 a:hover {
-	color: #23527c;
+	color: #3E8E41;
 }
 
 h1, h2, h3, h4, h5, h6 {
-	color: #333;
+	color: #964B00;
 }
 
 p {
@@ -39,7 +39,7 @@ img {
 
 /* Add some basic styling for the header */
 header {
-	background-color: #333;
+	background-color: #964B00;
 	color: #fff;
 	padding: 1em;
 	text-align: center;
@@ -51,7 +51,7 @@ header h1 {
 
 /* Add some basic styling for the footer */
 footer {
-	background-color: #333;
+	background-color: #964B00;
 	color: #fff;
 	padding: 1em;
 	text-align: center;
