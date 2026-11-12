@@ -11,7 +11,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create templates/index.html with the header template part, a query loop with post-template and pagination, and the footer template part _(done by roadmap bot, 2026-11-12)_
 - [ ] Create parts/header.html with the site logo, site title and navigation blocks
 - [x] Create parts/footer.html with the site title, a copyright line and a footer navigation block _(done by roadmap bot, 2026-11-12)_
-- [ ] Create templates/single.html with post title, featured image, post content, post meta, post navigation and comments
+- [x] Create templates/single.html with post title, featured image, post content, post meta, post navigation and comments _(done by roadmap bot, 2026-11-12)_
 - [ ] Create templates/page.html with post title, featured image and post content
 - [ ] Create templates/archive.html with an archive title, a query loop and pagination
 - [ ] Create templates/search.html with a search block, a results heading, a query loop and pagination
