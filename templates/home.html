@@ -1,0 +1,9 @@
+<!-- wp:template-part {"slug":"home","tagName":"main"} /-->
+<main class="wp-block-group">
+	<!-- wp:group {"tagName":"grid","layout":{"type":"constrained"}} -->
+	<div class="wp-block-grid">
+		<!-- wp:loop {"name":"posts","display":"block","style":"","template":"<div class=\"wp-block-post\"><% if posts.find('current') %><% if posts.find('current').status == 'publish' %><% if posts.find('current').featured_image %><img class=\"wp-block-post__image\" src=\"% = posts.find('current').featured_image %\" alt=\"% = posts.find('current').the_title %\" /><% endif %><% if posts.find('current').title %><h2 class=\"wp-block-post__title\"><% if posts.find('current').title.escaped %>% = posts.find('current').title.escaped %>% <\/h2><% endif %><% if posts.find('current').content %><p class=\"wp-block-post__content\"><% if posts.find('current').content.escaped %>% = posts.find('current').content.escaped %>% <\/p><% endif %><% endif %><% endif %></div><% if posts.next() %><% endif %></wp:loop -->
+	</div>
+	<!-- /wp:group -->
+</main>
+<!-- /wp:template-part -->
