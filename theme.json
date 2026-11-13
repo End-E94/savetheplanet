@@ -40,6 +40,67 @@
 					"color": "#e9efe3"
 				}
 			]
+		},
+		"typography": {
+			"fluid": true,
+			"fontFamilies": [
+				{
+					"slug": "system",
+					"name": "System",
+					"fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif"
+				},
+				{
+					"slug": "serif",
+					"name": "Serif",
+					"fontFamily": "Georgia, Times, serif"
+				}
+			],
+			"fontSizes": [
+				{
+					"slug": "small",
+					"name": "Small",
+					"size": "0.875rem"
+				},
+				{
+					"slug": "medium",
+					"name": "Medium",
+					"size": "1.125rem"
+				},
+				{
+					"slug": "large",
+					"name": "Large",
+					"size": "clamp(1.5rem, 1.2rem + 1.2vw, 2rem)"
+				},
+				{
+					"slug": "x-large",
+					"name": "Extra Large",
+					"size": "clamp(2rem, 1.5rem + 2vw, 3rem)"
+				}
+			]
+		},
+		"spacing": {
+			"spacingSizes": [
+				{
+					"slug": "30",
+					"name": "Small",
+					"size": "0.75rem"
+				},
+				{
+					"slug": "40",
+					"name": "Medium",
+					"size": "1.5rem"
+				},
+				{
+					"slug": "50",
+					"name": "Large",
+					"size": "clamp(2rem, 1.5rem + 2vw, 3rem)"
+				},
+				{
+					"slug": "60",
+					"name": "Extra Large",
+					"size": "clamp(3rem, 2rem + 4vw, 5rem)"
+				}
+			]
 		}
 	},
 	"templateParts": [
@@ -58,6 +119,16 @@
 			"title": "Shop Header",
 			"area": "header"
 		}
-	]
+	],
+	"styles": {
+		"typography": {
+			"fontFamily": "var(--wp--preset--font-family--system)",
+			"fontSize": "var(--wp--preset--font-size--medium)",
+			"lineHeight": "1.6"
+		},
+		"color": {
+			"background": "var(--wp--preset--color--base)",
+			"text": "var(--wp--preset--color--contrast)"
+		}
+	}
 }
-
