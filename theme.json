@@ -14,7 +14,62 @@
 					"name": "Primary",
 					"color": "#8B9467"
 				}
-			]
+			],
+			"fontSizes": [
+				{
+					"slug": "h1",
+					"name": "Heading 1",
+					"size": "36px",
+					"color": "#8B9467"
+				},
+				{
+					"slug": "h2",
+					"name": "Heading 2",
+					"size": "30px",
+					"color": "#8B9467"
+				},
+				{
+					"slug": "h3",
+					"name": "Heading 3",
+					"size": "24px",
+					"color": "#8B9467"
+				},
+				{
+					"slug": "h4",
+					"name": "Heading 4",
+					"size": "18px",
+					"color": "#8B9467"
+				},
+				{
+					"slug": "h5",
+					"name": "Heading 5",
+					"size": "14px",
+					"color": "#8B9467"
+				},
+				{
+					"slug": "h6",
+					"name": "Heading 6",
+					"size": "10px",
+					"color": "#8B9467"
+				}
+			],
+			"fontFamilies": [
+				{
+					"slug": "body",
+					"name": "Body",
+					"family": "Open Sans, sans-serif",
+					"color": "#8B9467"
+				}
+			],
+			"button": {
+				"color": "#8B9467"
+			},
+			"link": {
+				"color": "#8B9467"
+			},
+			"heading": {
+				"color": "#8B9467"
+			}
 		}
 	}
 }
