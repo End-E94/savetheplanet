@@ -32,7 +32,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Add a prefers-reduced-motion rule to the custom CSS in theme.json _(done by roadmap bot, 2026-11-13, built-in)_
 
 ## WooCommerce
-- [x] Add WooCommerce theme support (wc-product-gallery-zoom, wc-product-gallery-lightbox, wc-product-gallery-slider) in savetheplanet_setup() in functions.php _(done by roadmap bot, 2026-11-13)_
+- [x] Add WooCommerce theme support (wc-product-gallery-zoom, wc-product-gallery-lightbox, wc-product-gallery-slider) in savetheplanet_setup() in functions.php _(done by roadmap bot, 2026-11-13, built-in)_
 - [ ] Create templates/single-product.html using WooCommerce blocks for the product gallery, title, price, add to cart and related products
 - [ ] Create templates/archive-product.html with the WooCommerce product collection, sorting and pagination blocks
 - [ ] Create templates/product-search-results.html with the WooCommerce product collection block
