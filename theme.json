@@ -69,6 +69,14 @@
 			},
 			"heading": {
 				"color": "#8B9467"
+			},
+			"outline": {
+				"focus": {
+					"visible": true,
+					"style": "solid",
+					"width": "2px",
+					"color": "#8B9467"
+				}
 			}
 		}
 	}
