@@ -1,32 +1,19 @@
 <?php
 /**
- * Theme setup.
+ * Save the Planet theme functions.
  *
  * @package savetheplanet
  */
 
-function savetheplanet_setup() {
-	add_theme_support( esc_attr_x( "wp-block-styles", savetheplanet__domain, savetheplanet__domain ) );
+if ( ! function_exists( 'savetheplanet_setup' ) ) {
+	/**
+	 * Sets up theme defaults and registers support for WordPress features.
+	 */
+	function savetheplanet_setup() {
+		add_theme_support( 'wp-block-styles' );
+		add_theme_support( 'editor-styles' );
+		add_theme_support( 'responsive-embeds' );
+	}
 }
-add_action( esc_attr_x( "after_setup_theme", savetheplanet__domain, savetheplanet__domain ), 'savetheplanet_setup' );
+add_action( 'after_setup_theme', 'savetheplanet_setup' );
 
-add_action( esc_attr_x( "init", savetheplanet__domain, savetheplanet__domain ), 'savetheplanet_register_pattern_categories' );
-function savetheplanet_register_pattern_categories() {
-	register_block_pattern_category( esc_attr_x( "savetheplanet-block-patterns", savetheplanet__domain, savetheplanet__domain ), esc_attr_x( "savetheplanet-block-patterns", savetheplanet__domain, savetheplanet__domain ) );
-}
-
-add_action( 'woocommerce_init', 'savetheplanet_woocommerce_theme_support' );
-function savetheplanet_woocommerce_theme_support() {
-	wc_product_gallery_args( array(
-		'type' => 'zoom',
-		'class' => 'savetheplanet-zoom-gallery',
-	) );
-	wc_product_gallery_args( array(
-		'type' => 'lightbox',
-		'class' => 'savetheplanet-lightbox-gallery',
-	) );
-	wc_product_gallery_args( array(
-		'type' => 'slider',
-		'class' => 'savetheplanet-slider-gallery',
-	) );
-}
