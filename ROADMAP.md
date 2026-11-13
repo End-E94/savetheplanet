@@ -22,7 +22,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 
 ## Patterns and style
 - [x] Create patterns/hero.php with a block pattern header comment (Title, Slug: savetheplanet/hero, Categories: savetheplanet) and a cover block with a heading, paragraph and call-to-action button, using esc_html_e() with the savetheplanet text domain for every visible string _(done by roadmap bot, 2026-11-13, built-in)_
-- [x] Create patterns/call-to-action.php with a donate or get-involved banner using group, heading and buttons blocks and esc_html_e() with the savetheplanet text domain _(done by roadmap bot, 2026-11-12)_
+- [x] Create patterns/call-to-action.php with a donate or get-involved banner using group, heading and buttons blocks and esc_html_e() with the savetheplanet text domain _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Create patterns/impact-stats.php with three columns each showing a large number and a label, using esc_html_e() with the savetheplanet text domain _(done by roadmap bot, 2026-11-12)_
 - [x] Create patterns/features-three-columns.php with three columns each with a heading and a short paragraph, using esc_html_e() with the savetheplanet text domain _(done by roadmap bot, 2026-11-13)_
 - [x] Create patterns/testimonials.php with a quote block pattern using esc_html_e() with the savetheplanet text domain _(done by roadmap bot, 2026-11-13)_
