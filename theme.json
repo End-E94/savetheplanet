@@ -78,6 +78,15 @@
 					"color": "#8B9467"
 				}
 			}
+		},
+		"css": {
+			"includes": [
+				"style.css"
+			],
+			"preference": {
+				"name": "prefers-reduced-motion",
+				"value": "on"
+			}
 		}
 	}
 }
