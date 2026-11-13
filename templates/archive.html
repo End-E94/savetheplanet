@@ -1,34 +1,31 @@
-<!-- wp:template-part {"slug":"archive","tagName":"main","layout":{"type":"constrained"}} -->
+<!-- wp:template-part {"slug":"header","tagName":"header"} /-->
+
+<!-- wp:group {"tagName":"main","layout":{"type":"constrained"}} -->
 <main class="wp-block-group">
-	<!-- wp:heading {"level":2,"align":"center","fontSize":"large","textColor":"secondary","className":"savetheplanet-text-domain archive-title"} -->
-	<h2 class="savetheplanet-text-domain archive-title">Archive</h2>
-	<!-- /wp:heading -->
-	<!-- wp:loop {"index":"index","postType":"any","postStatus":"any","taxonomy":"","order":"DESC","direction":"DESC","blockTemplates":[{"block":"wp-block-image","className":"savetheplanet-image"}],"style":{"display":"grid","gridTemplateColumns":"repeat(3,1fr)","gridGap":"20px"}} -->
-	<?php
-	$loop = new WP_Query( array( 'post_type' => 'any', 'posts_per_page' => -1 ) );
-	?>
-	<?php while ( $loop->have_posts() ) : $loop->the_post(); ?>
-		<!-- wp:post-image {"align":"full","size":"medium","className":"savetheplanet-image"} -->
-		<?php the_post_image(); ?>
-		<!-- /wp:post-image -->
-		<!-- wp:post-title {"className":"savetheplanet-text-domain archive-post-title"} -->
-		<h3 class="savetheplanet-text-domain archive-post-title"><?php the_title(); ?></h3>
-		<!-- /wp:post-title -->
-	<?php endwhile; ?>
-	<?php wp_reset_postdata(); ?>
-	<!-- /wp:loop -->
-	<!-- wp:pagination {"align":"center","className":"savetheplanet-pagination"} -->
-	<?php
-	$paged = (get_query_var( 'paged' ) ? get_query_var( 'paged' ) : 1);
-	$pagination_args = array(
-		'start' => ( $paged - 1 ) * 10,
-		'end' => $paged * 10,
-		'before' => '<span class="savetheplanet-pagination prev">' . __( 'Previous', 'savetheplanet' ) . '</span>',
-		'after' => '<span class="savetheplanet-pagination next">' . __( 'Next', 'savetheplanet' ) . '</span>',
-	);
-	$pagination = new WP_Paginate( $loop->query_vars, $pagination_args );
-	?>
-	<?php echo $pagination->the_links(); ?>
-	<!-- /wp:pagination -->
+	<!-- wp:query-title {"type":"archive"} /-->
+	<!-- wp:term-description /-->
+	<!-- wp:query {"queryId":0,"query":{"perPage":10,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","inherit":true}} -->
+	<div class="wp-block-query">
+		<!-- wp:post-template -->
+			<!-- wp:post-title {"isLink":true} /-->
+			<!-- wp:post-featured-image {"isLink":true} /-->
+			<!-- wp:post-excerpt /-->
+			<!-- wp:post-date /-->
+		<!-- /wp:post-template -->
+		<!-- wp:query-pagination -->
+			<!-- wp:query-pagination-previous /-->
+			<!-- wp:query-pagination-numbers /-->
+			<!-- wp:query-pagination-next /-->
+		<!-- /wp:query-pagination -->
+		<!-- wp:query-no-results -->
+			<!-- wp:paragraph -->
+			<p>No posts were found.</p>
+			<!-- /wp:paragraph -->
+		<!-- /wp:query-no-results -->
+	</div>
+	<!-- /wp:query -->
 </main>
-<!-- /wp:template-part -->
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","tagName":"footer"} /-->
+
