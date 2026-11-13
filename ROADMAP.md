@@ -29,7 +29,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create styles/dark.json style variation (version 3) with a dark green color palette _(done by roadmap bot, 2026-11-13)_
 - [x] Add button, link and heading element styles to theme.json using the color palette _(done by roadmap bot, 2026-11-13)_
 - [x] Add a visible :focus-visible outline for links and buttons to theme.json styles _(done by roadmap bot, 2026-11-13)_
-- [ ] Add a prefers-reduced-motion rule to the custom CSS in theme.json
+- [x] Add a prefers-reduced-motion rule to the custom CSS in theme.json _(done by roadmap bot, 2026-11-13)_
 
 ## WooCommerce
 - [ ] Add WooCommerce theme support (wc-product-gallery-zoom, wc-product-gallery-lightbox, wc-product-gallery-slider) in savetheplanet_setup() in functions.php
