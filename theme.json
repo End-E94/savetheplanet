@@ -10,83 +10,54 @@
 		"color": {
 			"palette": [
 				{
+					"slug": "base",
+					"name": "Base",
+					"color": "#fbfaf5"
+				},
+				{
+					"slug": "contrast",
+					"name": "Contrast",
+					"color": "#1b2a1f"
+				},
+				{
 					"slug": "primary",
 					"name": "Primary",
-					"color": "#8B9467"
+					"color": "#2d6a4f"
+				},
+				{
+					"slug": "secondary",
+					"name": "Secondary",
+					"color": "#8a6a3b"
+				},
+				{
+					"slug": "accent",
+					"name": "Accent",
+					"color": "#95d5b2"
+				},
+				{
+					"slug": "surface",
+					"name": "Surface",
+					"color": "#e9efe3"
 				}
-			],
-			"fontSizes": [
-				{
-					"slug": "h1",
-					"name": "Heading 1",
-					"size": "36px",
-					"color": "#8B9467"
-				},
-				{
-					"slug": "h2",
-					"name": "Heading 2",
-					"size": "30px",
-					"color": "#8B9467"
-				},
-				{
-					"slug": "h3",
-					"name": "Heading 3",
-					"size": "24px",
-					"color": "#8B9467"
-				},
-				{
-					"slug": "h4",
-					"name": "Heading 4",
-					"size": "18px",
-					"color": "#8B9467"
-				},
-				{
-					"slug": "h5",
-					"name": "Heading 5",
-					"size": "14px",
-					"color": "#8B9467"
-				},
-				{
-					"slug": "h6",
-					"name": "Heading 6",
-					"size": "10px",
-					"color": "#8B9467"
-				}
-			],
-			"fontFamilies": [
-				{
-					"slug": "body",
-					"name": "Body",
-					"family": "Open Sans, sans-serif",
-					"color": "#8B9467"
-				}
-			],
-			"button": {
-				"color": "#8B9467"
-			},
-			"link": {
-				"color": "#8B9467"
-			},
-			"heading": {
-				"color": "#8B9467"
-			},
-			"outline": {
-				"focus": {
-					"visible": true,
-					"style": "solid",
-					"width": "2px",
-					"color": "#8B9467"
-				}
-			}
-		},
-		"css": {
-			"includes": [
-				"style.css"
-			],
-			"preference": {
-				"name": "prefers-reduced-motion",
-				"value": "on"
-			}
+			]
 		}
-	}
+	},
+	"templateParts": [
+		{
+			"name": "header",
+			"title": "Header",
+			"area": "header"
+		},
+		{
+			"name": "footer",
+			"title": "Footer",
+			"area": "footer"
+		},
+		{
+			"name": "header-shop",
+			"title": "Shop Header",
+			"area": "header"
+		}
+	]
 }
+
