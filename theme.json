@@ -163,6 +163,6 @@
 				}
 			}
 		},
-		"css": ":where(a, button, .wp-element-button, input, select, textarea):focus-visible { outline: 3px solid var(--wp--preset--color--primary); outline-offset: 2px; }"
+		"css": ":where(a, button, .wp-element-button, input, select, textarea):focus-visible { outline: 3px solid var(--wp--preset--color--primary); outline-offset: 2px; } @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; scroll-behavior: auto !important; transition-duration: 0.01ms !important; } }"
 	}
 }
