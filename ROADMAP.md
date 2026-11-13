@@ -21,7 +21,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Add a savetheplanet_register_pattern_categories() function hooked to init that registers a savetheplanet block pattern category in functions.php _(done by roadmap bot, 2026-11-12)_
 
 ## Patterns and style
-- [ ] Create patterns/hero.php with a block pattern header comment (Title, Slug: savetheplanet/hero, Categories: savetheplanet) and a cover block with a heading, paragraph and call-to-action button, using esc_html_e() with the savetheplanet text domain for every visible string
+- [x] Create patterns/hero.php with a block pattern header comment (Title, Slug: savetheplanet/hero, Categories: savetheplanet) and a cover block with a heading, paragraph and call-to-action button, using esc_html_e() with the savetheplanet text domain for every visible string _(done by roadmap bot, 2026-11-12)_
 - [ ] Create patterns/call-to-action.php with a donate or get-involved banner using group, heading and buttons blocks and esc_html_e() with the savetheplanet text domain
 - [ ] Create patterns/impact-stats.php with three columns each showing a large number and a label, using esc_html_e() with the savetheplanet text domain
 - [ ] Create patterns/features-three-columns.php with three columns each with a heading and a short paragraph, using esc_html_e() with the savetheplanet text domain
