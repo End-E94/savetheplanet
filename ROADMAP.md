@@ -28,7 +28,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create patterns/testimonials.php with a quote block pattern using esc_html_e() with the savetheplanet text domain _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Create styles/dark.json style variation (version 3) with a dark green color palette _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Add button, link and heading element styles to theme.json using the color palette _(done by roadmap bot, 2026-11-13, built-in)_
-- [x] Add a visible :focus-visible outline for links and buttons to theme.json styles _(done by roadmap bot, 2026-11-13)_
+- [x] Add a visible :focus-visible outline for links and buttons to theme.json styles _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Add a prefers-reduced-motion rule to the custom CSS in theme.json _(done by roadmap bot, 2026-11-13)_
 
 ## WooCommerce
