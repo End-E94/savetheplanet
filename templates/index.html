@@ -1,22 +1,29 @@
 <!-- wp:template-part {"slug":"header","tagName":"header"} /-->
-<!-- wp:group {"tagName":"header","layout":{"type":"constrained"}} -->
-<header class="wp-block-group">
-	<!-- wp:post-title /-->
-	<!-- wp:site-title { "display":"none"} /-->
-	<!-- wp:site-description /-->
-</header>
-<!-- /wp:group -->
-<!-- wp:template-part {"slug":"footer","tagName":"footer"} /-->
+
 <!-- wp:group {"tagName":"main","layout":{"type":"constrained"}} -->
 <main class="wp-block-group">
-	<!-- wp:loop {"name":"posts","display":"block","style":"","template":"<div class=\"wp-block-group__block\"><div class=\"wp-block-group__block__inner\"><div class=\"wp-block-group__block__content\"><# if ( posts.display ) ){ ?>
-		<!-- wp:post {"name":"post","template":"<div class=\"wp-block-group__block__content\"><# if ( post.display ) ){ ?>
-			<!-- wp:post-title /-->
-			<!-- wp:post-content /-->
-		<!-- } --></div></div></div></div>
-	<!-- # if ( posts.display ) ){ ?>
-	<!-- # if ( posts.display ) ){ ?>
-	<!-- wp:pager {"align":"center","link":"#","type":"standard","value":"1","valueLink":"#","valueText":"1","valueLinkAttribute":"data-page","valueTextAttr":"data-page","value":"1","valueLink":"#","valueText":"1","valueLinkAttribute":"data-page","valueTextAttr":"data-page"} /-->
+	<!-- wp:query {"queryId":0,"query":{"perPage":10,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","inherit":true}} -->
+	<div class="wp-block-query">
+		<!-- wp:post-template -->
+			<!-- wp:post-title {"isLink":true} /-->
+			<!-- wp:post-featured-image {"isLink":true} /-->
+			<!-- wp:post-excerpt /-->
+			<!-- wp:post-date /-->
+		<!-- /wp:post-template -->
+		<!-- wp:query-pagination -->
+			<!-- wp:query-pagination-previous /-->
+			<!-- wp:query-pagination-numbers /-->
+			<!-- wp:query-pagination-next /-->
+		<!-- /wp:query-pagination -->
+		<!-- wp:query-no-results -->
+			<!-- wp:paragraph -->
+			<p>No posts were found.</p>
+			<!-- /wp:paragraph -->
+		<!-- /wp:query-no-results -->
+	</div>
+	<!-- /wp:query -->
 </main>
 <!-- /wp:group -->
+
 <!-- wp:template-part {"slug":"footer","tagName":"footer"} /-->
+
