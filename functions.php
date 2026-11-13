@@ -17,3 +17,14 @@ if ( ! function_exists( 'savetheplanet_setup' ) ) {
 }
 add_action( 'after_setup_theme', 'savetheplanet_setup' );
 
+
+/**
+ * Registers the Save the Planet block pattern category.
+ */
+function savetheplanet_register_pattern_categories() {
+	register_block_pattern_category(
+		'savetheplanet',
+		array( 'label' => __( 'Save the Planet', 'savetheplanet' ) )
+	);
+}
+add_action( 'init', 'savetheplanet_register_pattern_categories' );
