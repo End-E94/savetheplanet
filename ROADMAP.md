@@ -14,7 +14,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create templates/single.html with post title, featured image, post content, post meta, post navigation and comments _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Create templates/page.html with post title, featured image and post content _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Create templates/archive.html with an archive title, a query loop and pagination _(done by roadmap bot, 2026-11-13, built-in)_
-- [ ] Create templates/search.html with a search block, a results heading, a query loop and pagination
+- [x] Create templates/search.html with a search block, a results heading, a query loop and pagination _(done by roadmap bot, 2026-11-13, built-in)_
 - [ ] Create templates/404.html with a friendly message and a search block
 - [x] Create templates/home.html for the blog posts index with a query loop _(done by roadmap bot, 2026-11-12)_
 - [x] Create functions.php with a file docblock and a savetheplanet_setup() function hooked to after_setup_theme that adds wp-block-styles and editor-styles support _(done by roadmap bot, 2026-11-12)_
