@@ -6,7 +6,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 
 ## Block theme foundation
 - [x] Create style.css with the WordPress theme header (Theme Name: Save the Planet, Description: Minimalistic block theme for non-profits and eco-friendly businesses, Version: 0.1.0, Requires at least: 6.6, Tested up to: 7.1, Requires PHP: 7.4, License: GNU General Public License v3 or later, License URI: https://www.gnu.org/licenses/gpl-3.0.html, Text Domain: savetheplanet, Tags: full-site-editing, block-patterns, e-commerce, accessibility-ready, wide-blocks, translation-ready) and no other CSS _(done by roadmap bot, 2026-11-13, built-in)_
-- [x] Create theme.json (version 3) with the schema URL, appearanceTools, layout contentSize 720px and wideSize 1200px, and a green and earth-tone color palette _(done by roadmap bot, 2026-11-11)_
+- [x] Create theme.json (version 3) with the schema URL, appearanceTools, layout contentSize 720px and wideSize 1200px, and a green and earth-tone color palette _(done by roadmap bot, 2026-11-13, built-in)_
 - [ ] Add system font stacks, a fluid font size scale and a spacing scale to theme.json
 - [x] Create templates/index.html with the header template part, a query loop with post-template and pagination, and the footer template part _(done by roadmap bot, 2026-11-12)_
 - [ ] Create parts/header.html with the site logo, site title and navigation blocks
