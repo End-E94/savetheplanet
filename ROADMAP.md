@@ -9,7 +9,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create theme.json (version 3) with the schema URL, appearanceTools, layout contentSize 720px and wideSize 1200px, and a green and earth-tone color palette _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Add system font stacks, a fluid font size scale and a spacing scale to theme.json _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Create templates/index.html with the header template part, a query loop with post-template and pagination, and the footer template part _(done by roadmap bot, 2026-11-13, built-in)_
-- [ ] Create parts/header.html with the site logo, site title and navigation blocks
+- [x] Create parts/header.html with the site logo, site title and navigation blocks _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Create parts/footer.html with the site title, a copyright line and a footer navigation block _(done by roadmap bot, 2026-11-12)_
 - [x] Create templates/single.html with post title, featured image, post content, post meta, post navigation and comments _(done by roadmap bot, 2026-11-12)_
 - [x] Create templates/page.html with post title, featured image and post content _(done by roadmap bot, 2026-11-12)_
