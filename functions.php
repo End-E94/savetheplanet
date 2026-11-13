@@ -14,3 +14,19 @@ add_action( esc_attr_x( "init", savetheplanet__domain, savetheplanet__domain ), 
 function savetheplanet_register_pattern_categories() {
 	register_block_pattern_category( esc_attr_x( "savetheplanet-block-patterns", savetheplanet__domain, savetheplanet__domain ), esc_attr_x( "savetheplanet-block-patterns", savetheplanet__domain, savetheplanet__domain ) );
 }
+
+add_action( 'woocommerce_init', 'savetheplanet_woocommerce_theme_support' );
+function savetheplanet_woocommerce_theme_support() {
+	wc_product_gallery_args( array(
+		'type' => 'zoom',
+		'class' => 'savetheplanet-zoom-gallery',
+	) );
+	wc_product_gallery_args( array(
+		'type' => 'lightbox',
+		'class' => 'savetheplanet-lightbox-gallery',
+	) );
+	wc_product_gallery_args( array(
+		'type' => 'slider',
+		'class' => 'savetheplanet-slider-gallery',
+	) );
+}
