@@ -162,6 +162,7 @@
 					"lineHeight": "1.2"
 				}
 			}
-		}
+		},
+		"css": ":where(a, button, .wp-element-button, input, select, textarea):focus-visible { outline: 3px solid var(--wp--preset--color--primary); outline-offset: 2px; }"
 	}
 }
