@@ -18,7 +18,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [ ] Create templates/404.html with a friendly message and a search block
 - [x] Create templates/home.html for the blog posts index with a query loop _(done by roadmap bot, 2026-11-12)_
 - [x] Create functions.php with a file docblock and a savetheplanet_setup() function hooked to after_setup_theme that adds wp-block-styles and editor-styles support _(done by roadmap bot, 2026-11-12)_
-- [ ] Add a savetheplanet_register_pattern_categories() function hooked to init that registers a savetheplanet block pattern category in functions.php
+- [x] Add a savetheplanet_register_pattern_categories() function hooked to init that registers a savetheplanet block pattern category in functions.php _(done by roadmap bot, 2026-11-12)_
 
 ## Patterns and style
 - [ ] Create patterns/hero.php with a block pattern header comment (Title, Slug: savetheplanet/hero, Categories: savetheplanet) and a cover block with a heading, paragraph and call-to-action button, using esc_html_e() with the savetheplanet text domain for every visible string
