@@ -36,7 +36,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create templates/single-product.html using WooCommerce blocks for the product gallery, title, price, add to cart and related products _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Create templates/archive-product.html with the WooCommerce product collection, sorting and pagination blocks _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Create templates/product-search-results.html with the WooCommerce product collection block _(done by roadmap bot, 2026-11-13, built-in)_
-- [ ] Create templates/page-cart.html with the WooCommerce cart block
+- [x] Create templates/page-cart.html with the WooCommerce cart block _(done by roadmap bot, 2026-11-13, built-in)_
 - [ ] Create templates/page-checkout.html with the WooCommerce checkout block
 - [ ] Create templates/order-confirmation.html with the WooCommerce order confirmation blocks
 - [ ] Create parts/header-shop.html with the site logo, navigation and the WooCommerce mini-cart block
