@@ -82,7 +82,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Add underlined link styles to theme.json so links are not identified by colour alone _(done by roadmap bot, 2026-11-14, built-in)_
 - [x] Add a forced-colors media query for focus outlines to theme.json _(done by roadmap bot, 2026-11-14, built-in)_
 - [x] Add a minimum 44px touch target size for buttons and form fields to theme.json _(done by roadmap bot, 2026-11-14, built-in)_
-- [ ] Create styles/high-contrast.json style variation with a high contrast color palette
+- [x] Create styles/high-contrast.json style variation with a high contrast color palette _(done by roadmap bot, 2026-11-14, built-in)_
 - [ ] Create patterns/blog-posts-grid.php with a three-column grid of the latest posts
 - [ ] Improve templates/single-product.html to use the header-shop template part
 - [ ] Improve templates/archive-product.html to use the header-shop template part
