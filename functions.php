@@ -39,3 +39,26 @@ function savetheplanet_woocommerce_setup() {
 	add_theme_support( 'wc-product-gallery-slider' );
 }
 add_action( 'after_setup_theme', 'savetheplanet_woocommerce_setup' );
+
+/**
+ * Registers block style variations.
+ */
+function savetheplanet_register_block_styles() {
+	register_block_style(
+		'core/group',
+		array(
+			'name'         => 'card',
+			'label'        => __( 'Card', 'savetheplanet' ),
+			'inline_style' => '.wp-block-group.is-style-card { padding: 1.5rem; border: 1px solid currentColor; border-radius: 8px; }',
+		)
+	);
+	register_block_style(
+		'core/heading',
+		array(
+			'name'         => 'underline',
+			'label'        => __( 'Underline', 'savetheplanet' ),
+			'inline_style' => '.wp-block-heading.is-style-underline { text-decoration: underline; text-underline-offset: 0.2em; }',
+		)
+	);
+}
+add_action( 'init', 'savetheplanet_register_block_styles' );
