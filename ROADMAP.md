@@ -66,3 +66,13 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Add fluid heading size presets to theme.json _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Add WooCommerce product grid spacing styles to theme.json _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Add print styles to theme.json _(done by roadmap bot, 2026-11-13, built-in)_
+
+## Cycle 4 - 2026-11-13
+- [ ] Update theme.json to include RTL languages support.
+- [ ] Improve templates/search.html to include a skip link for keyboard navigation.
+- [ ] Update styles/dark.json to include reduced motion styles.
+- [ ] Create templates/template-header.php to improve navigation templates.
+- [ ] Improve parts/footer.html to include ARIA attributes for focus states.
+- [ ] Update functions.php to include browser-specific block style variations.
+- [ ] Create patterns/testimonials.php to improve color contrast for testimonial text.
+- [ ] Update README.md to include documentation links and editor experience instructions.
