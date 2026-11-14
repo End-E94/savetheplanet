@@ -76,3 +76,13 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Update functions.php to include browser-specific block style variations. _(done by roadmap bot, 2026-11-14)_
 - [ ] Create patterns/testimonials.php to improve color contrast for testimonial text.
 - [x] Update README.md to include documentation links and editor experience instructions. _(done by roadmap bot, 2026-11-14)_
+
+## Cycle 5 - 2026-11-14
+- [ ] Add customTemplates for the page without a title template to theme.json
+- [ ] Add underlined link styles to theme.json so links are not identified by colour alone
+- [ ] Add a forced-colors media query for focus outlines to theme.json
+- [ ] Add a minimum 44px touch target size for buttons and form fields to theme.json
+- [ ] Create styles/high-contrast.json style variation with a high contrast color palette
+- [ ] Create patterns/blog-posts-grid.php with a three-column grid of the latest posts
+- [ ] Improve templates/single-product.html to use the header-shop template part
+- [ ] Improve templates/archive-product.html to use the header-shop template part
