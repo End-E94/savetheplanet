@@ -86,3 +86,12 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create patterns/blog-posts-grid.php with a three-column grid of the latest posts _(done by roadmap bot, 2026-11-14, built-in)_
 - [x] Improve templates/single-product.html to use the header-shop template part _(done by roadmap bot, 2026-11-14, built-in)_
 - [x] Improve templates/archive-product.html to use the header-shop template part _(done by roadmap bot, 2026-11-14, built-in)_
+
+## Cycle 6 - 2026-11-14
+- [ ] Improve templates/product-search-results.html to use the header-shop template part
+- [ ] Improve templates/taxonomy-product_cat.html to use the header-shop template part
+- [ ] Improve templates/taxonomy-product_tag.html to use the header-shop template part
+- [ ] Improve templates/page-cart.html to use the header-shop template part
+- [ ] Improve templates/page-checkout.html to use the header-shop template part
+- [ ] Improve templates/order-confirmation.html to use the header-shop template part
+- [ ] Update README.md with a list of the included block patterns and style variations
