@@ -46,5 +46,5 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create readme.txt in the WordPress.org theme readme format with Description, Installation, Frequently Asked Questions, Copyright (credits for any bundled resources) and Changelog, stating Requires at least 6.6, Tested up to 7.1 and Requires PHP 7.4 _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Create phpcs.xml.dist that uses the WordPress-Extra and WordPress-Docs rulesets with text domain and prefix savetheplanet and minimum_supported_wp_version 6.6 _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Create composer.json with dev dependencies wp-coding-standards/wpcs and phpcompatibility/phpcompatibility-wp and lint and fix scripts that run phpcs and phpcbf _(done by roadmap bot, 2026-11-13, built-in)_
-- [ ] Review functions.php against the WordPress PHP coding standards (tabs, spacing inside parentheses, Yoda conditions, docblocks) and fix any issues
+- [x] Review functions.php against the WordPress PHP coding standards (tabs, spacing inside parentheses, Yoda conditions, docblocks) and fix any issues _(done by roadmap bot, 2026-11-13, built-in)_
 - [ ] Update README.md with the theme description, requirements, installation steps, supported features (block theme, WooCommerce) and development instructions
