@@ -103,4 +103,4 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create styles/high-contrast-dark.json style variation with dark high contrast color palette _(done by roadmap bot, 2026-11-14, built-in)_
 - [x] Update templates/front-page.html to use the header template part _(done by roadmap bot, 2026-11-14)_
 - [x] Improve templates/search.html to use readable text sizes _(done by roadmap bot, 2026-11-14)_
-- [ ] Improve templates/single.html to use a semantic HTML structure
+- [x] Improve templates/single.html to use a semantic HTML structure _(done by roadmap bot, 2026-11-14, built-in)_
