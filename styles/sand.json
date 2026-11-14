@@ -1,0 +1,42 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 3,
+	"title": "Sand",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"slug": "base",
+					"name": "Base",
+					"color": "#f6efe3"
+				},
+				{
+					"slug": "contrast",
+					"name": "Contrast",
+					"color": "#2b2118"
+				},
+				{
+					"slug": "primary",
+					"name": "Primary",
+					"color": "#7a4e2d"
+				},
+				{
+					"slug": "secondary",
+					"name": "Secondary",
+					"color": "#2d6a4f"
+				},
+				{
+					"slug": "accent",
+					"name": "Accent",
+					"color": "#d9b382"
+				},
+				{
+					"slug": "surface",
+					"name": "Surface",
+					"color": "#ebdfca"
+				}
+			]
+		}
+	}
+}
+
