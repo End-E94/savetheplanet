@@ -65,4 +65,4 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create languages/README.md explaining how to translate the theme _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Add fluid heading size presets to theme.json _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Add WooCommerce product grid spacing styles to theme.json _(done by roadmap bot, 2026-11-13, built-in)_
-- [ ] Add print styles to theme.json
+- [x] Add print styles to theme.json _(done by roadmap bot, 2026-11-13, built-in)_
