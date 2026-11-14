@@ -47,4 +47,4 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create phpcs.xml.dist that uses the WordPress-Extra and WordPress-Docs rulesets with text domain and prefix savetheplanet and minimum_supported_wp_version 6.6 _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Create composer.json with dev dependencies wp-coding-standards/wpcs and phpcompatibility/phpcompatibility-wp and lint and fix scripts that run phpcs and phpcbf _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Review functions.php against the WordPress PHP coding standards (tabs, spacing inside parentheses, Yoda conditions, docblocks) and fix any issues _(done by roadmap bot, 2026-11-13, built-in)_
-- [ ] Update README.md with the theme description, requirements, installation steps, supported features (block theme, WooCommerce) and development instructions
+- [x] Update README.md with the theme description, requirements, installation steps, supported features (block theme, WooCommerce) and development instructions _(done by roadmap bot, 2026-11-13, built-in)_
