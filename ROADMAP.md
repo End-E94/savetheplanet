@@ -104,3 +104,9 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Update templates/front-page.html to use the header template part _(done by roadmap bot, 2026-11-14)_
 - [x] Improve templates/search.html to use readable text sizes _(done by roadmap bot, 2026-11-14)_
 - [x] Improve templates/single.html to use a semantic HTML structure _(done by roadmap bot, 2026-11-14, built-in)_
+
+## Cycle 8 - 2026-11-14
+- [ ] Add RTL language support to theme.json
+- [ ] Update styles/high-contrast-dark.json for color contrast consistency
+- [ ] Update patterns/impact-stats.php for reduced motion
+- [ ] Improve styles/sand.json for better browser compatibility
