@@ -2,16 +2,20 @@
 
 <!-- wp:group {"tagName":"main","layout":{"type":"constrained"}} -->
 <main class="wp-block-group">
-	<!-- wp:post-title {"level":1} /-->
-	<!-- wp:post-featured-image /-->
-	<!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap"}} -->
-	<div class="wp-block-group">
-		<!-- wp:post-date /-->
-		<!-- wp:post-author-name /-->
-		<!-- wp:post-terms {"term":"category"} /-->
-	</div>
+	<!-- wp:group {"tagName":"article","layout":{"type":"constrained"}} -->
+	<article class="wp-block-group">
+		<!-- wp:post-title {"level":1} /-->
+		<!-- wp:post-featured-image /-->
+		<!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap"}} -->
+		<div class="wp-block-group">
+			<!-- wp:post-date /-->
+			<!-- wp:post-author-name /-->
+			<!-- wp:post-terms {"term":"category"} /-->
+		</div>
+		<!-- /wp:group -->
+		<!-- wp:post-content {"layout":{"type":"constrained"}} /-->
+	</article>
 	<!-- /wp:group -->
-	<!-- wp:post-content {"layout":{"type":"constrained"}} /-->
 	<!-- wp:post-navigation-link {"type":"previous"} /-->
 	<!-- wp:post-navigation-link /-->
 	<!-- wp:comments -->
