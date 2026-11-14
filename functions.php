@@ -62,26 +62,3 @@ function savetheplanet_register_block_styles() {
 	);
 }
 add_action( 'init', 'savetheplanet_register_block_styles' );
-
-add_filter( 'block_style', 'savetheplanet_block_style_browser_specific', 10, 2 );
-function savetheplanet_block_style_browser_specific( $style, $block ) {
-	if ( ! is_array( $style ) ) {
-		return $style;
-	}
-	if ( ! isset( $style['browser_specific'] ) ) {
-		$style['browser_specific'] = array();
-	}
-	$browser = get_user_browser();
-	if ( $browser['browser'] == 'firefox' ) {
-		$style['browser_specific']['firefox'] = array(
-			'border-radius' => '8px 8px 0 0',
-			'box-shadow' => '0 0 0 1px currentColor',
-		);
-	} elseif ( $browser['browser'] == 'chrome' || $browser['browser'] == 'safari' ) {
-		$style['browser_specific']['chrome_safari'] = array(
-			'border-radius' => '8px 8px 0 0',
-			'box-shadow' => '0 0 0 1px currentColor',
-		);
-	}
-	return $style;
-}
