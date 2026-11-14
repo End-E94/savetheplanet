@@ -102,5 +102,5 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Update functions.php to use PHP 7.4+ coding standards _(done by roadmap bot, 2026-11-14)_
 - [ ] Create styles/high-contrast-dark.json style variation with dark high contrast color palette
 - [x] Update templates/front-page.html to use the header template part _(done by roadmap bot, 2026-11-14)_
-- [ ] Improve templates/search.html to use readable text sizes
+- [x] Improve templates/search.html to use readable text sizes _(done by roadmap bot, 2026-11-14)_
 - [ ] Improve templates/single.html to use a semantic HTML structure
