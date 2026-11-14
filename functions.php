@@ -62,17 +62,3 @@ function savetheplanet_register_block_styles() {
 	);
 }
 add_action( 'init', 'savetheplanet_register_block_styles' );
-
-add_filter( 'wp_block_styles', 'savetheplanet_filter_block_styles' );
-function savetheplanet_filter_block_styles( $styles ) {
-	$styles['core/heading']['style'] = 'text-decoration: underline; text-underline-offset: 0.2em;';
-	return $styles;
-}
-
-add_filter( 'block_style', 'savetheplanet_filter_block_style' );
-function savetheplanet_filter_block_style( $style, $block ) {
-	if ( $block['blockName'] === 'core/heading' ) {
-		$style['style'] = 'text-decoration: underline; text-underline-offset: 0.2em;';
-	}
-	return $style;
-}
