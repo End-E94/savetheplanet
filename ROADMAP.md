@@ -53,7 +53,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create templates/taxonomy-product_cat.html using the WooCommerce legacy template block _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Create templates/taxonomy-product_tag.html using the WooCommerce legacy template block _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Create templates/front-page.html that shows the hero and impact-stats patterns above the latest posts _(done by roadmap bot, 2026-11-13, built-in)_
-- [ ] Create templates/page-no-title.html for pages without a visible title
+- [x] Create templates/page-no-title.html for pages without a visible title _(done by roadmap bot, 2026-11-13, built-in)_
 - [ ] Create parts/sidebar.html with a search block and a recent posts list
 - [ ] Create styles/sand.json style variation with a warm earth-tone color palette
 - [ ] Create patterns/team-members.php with a three-column team pattern
