@@ -50,7 +50,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Update README.md with the theme description, requirements, installation steps, supported features (block theme, WooCommerce) and development instructions _(done by roadmap bot, 2026-11-13, built-in)_
 
 ## Cycle 2 - 2026-11-13
-- [ ] Create templates/taxonomy-product_cat.html using the WooCommerce legacy template block
+- [x] Create templates/taxonomy-product_cat.html using the WooCommerce legacy template block _(done by roadmap bot, 2026-11-13, built-in)_
 - [ ] Create templates/taxonomy-product_tag.html using the WooCommerce legacy template block
 - [ ] Create templates/front-page.html that shows the hero and impact-stats patterns above the latest posts
 - [ ] Create templates/page-no-title.html for pages without a visible title
