@@ -36,3 +36,21 @@ To get the most out of this theme, we recommend using the following editor setti
 - Use the WordPress block editor (Gutenberg) for a more intuitive experience.
 - Use the theme's built-in settings panel to configure the theme's options.
 - Use the WordPress documentation and Codex for more detailed information on how to use the theme's features.
+
+## Included block patterns
+
+- Hero
+- Call to action
+- Impact stats
+- Features in three columns
+- Testimonial
+- Team members
+- FAQ
+- Donation tiers
+- Blog posts grid
+
+## Style variations
+
+- Dark
+- Sand
+- High Contrast
