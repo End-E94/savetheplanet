@@ -58,3 +58,11 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create styles/sand.json style variation with a warm earth-tone color palette _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Create patterns/team-members.php with a three-column team pattern _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Create patterns/faq.php with a details block pattern _(done by roadmap bot, 2026-11-13, built-in)_
+
+## Cycle 3 - 2026-11-13
+- [ ] Create patterns/donation-tiers.php with three columns each showing an amount and a donate button
+- [ ] Add block style variations (card group and underlined heading) in functions.php
+- [ ] Create languages/README.md explaining how to translate the theme
+- [ ] Add fluid heading size presets to theme.json
+- [ ] Add WooCommerce product grid spacing styles to theme.json
+- [ ] Add print styles to theme.json
