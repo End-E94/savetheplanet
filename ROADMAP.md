@@ -79,7 +79,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 
 ## Cycle 5 - 2026-11-14
 - [x] Add customTemplates for the page without a title template to theme.json _(done by roadmap bot, 2026-11-14, built-in)_
-- [ ] Add underlined link styles to theme.json so links are not identified by colour alone
+- [x] Add underlined link styles to theme.json so links are not identified by colour alone _(done by roadmap bot, 2026-11-14, built-in)_
 - [ ] Add a forced-colors media query for focus outlines to theme.json
 - [ ] Add a minimum 44px touch target size for buttons and form fields to theme.json
 - [ ] Create styles/high-contrast.json style variation with a high contrast color palette
