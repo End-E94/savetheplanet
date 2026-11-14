@@ -90,7 +90,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 ## Cycle 6 - 2026-11-14
 - [x] Improve templates/product-search-results.html to use the header-shop template part _(done by roadmap bot, 2026-11-14, built-in)_
 - [x] Improve templates/taxonomy-product_cat.html to use the header-shop template part _(done by roadmap bot, 2026-11-14, built-in)_
-- [ ] Improve templates/taxonomy-product_tag.html to use the header-shop template part
+- [x] Improve templates/taxonomy-product_tag.html to use the header-shop template part _(done by roadmap bot, 2026-11-14, built-in)_
 - [ ] Improve templates/page-cart.html to use the header-shop template part
 - [ ] Improve templates/page-checkout.html to use the header-shop template part
 - [ ] Improve templates/order-confirmation.html to use the header-shop template part
