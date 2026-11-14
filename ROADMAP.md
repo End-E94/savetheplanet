@@ -60,7 +60,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create patterns/faq.php with a details block pattern _(done by roadmap bot, 2026-11-13, built-in)_
 
 ## Cycle 3 - 2026-11-13
-- [ ] Create patterns/donation-tiers.php with three columns each showing an amount and a donate button
+- [x] Create patterns/donation-tiers.php with three columns each showing an amount and a donate button _(done by roadmap bot, 2026-11-13, built-in)_
 - [ ] Add block style variations (card group and underlined heading) in functions.php
 - [ ] Create languages/README.md explaining how to translate the theme
 - [ ] Add fluid heading size presets to theme.json
