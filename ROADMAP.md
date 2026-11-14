@@ -40,7 +40,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create templates/page-checkout.html with the WooCommerce checkout block _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Create templates/order-confirmation.html with the WooCommerce order confirmation blocks _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Create parts/header-shop.html with the site logo, navigation and the WooCommerce mini-cart block _(done by roadmap bot, 2026-11-13, built-in)_
-- [ ] Add WooCommerce block style rules for prices, sale badges and product buttons to theme.json
+- [x] Add WooCommerce block style rules for prices, sale badges and product buttons to theme.json _(done by roadmap bot, 2026-11-13, built-in)_
 
 ## WordPress.org readiness and coding standards
 - [ ] Create readme.txt in the WordPress.org theme readme format with Description, Installation, Frequently Asked Questions, Copyright (credits for any bundled resources) and Changelog, stating Requires at least 6.6, Tested up to 7.1 and Requires PHP 7.4
