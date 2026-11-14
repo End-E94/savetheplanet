@@ -95,3 +95,12 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Improve templates/page-checkout.html to use the header-shop template part _(done by roadmap bot, 2026-11-14, built-in)_
 - [x] Improve templates/order-confirmation.html to use the header-shop template part _(done by roadmap bot, 2026-11-14, built-in)_
 - [x] Update README.md with a list of the included block patterns and style variations _(done by roadmap bot, 2026-11-14, built-in)_
+
+## Cycle 7 - 2026-11-14
+- [ ] Add RTL languages support to theme.json
+- [ ] Improve accessibility of patterns/hero.php with reduced motion
+- [ ] Update functions.php to use PHP 7.4+ coding standards
+- [ ] Create styles/high-contrast-dark.json style variation with dark high contrast color palette
+- [ ] Update templates/front-page.html to use the header template part
+- [ ] Improve templates/search.html to use readable text sizes
+- [ ] Improve templates/single.html to use a semantic HTML structure
