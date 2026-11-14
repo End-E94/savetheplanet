@@ -75,4 +75,4 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Improve parts/footer.html to include ARIA attributes for focus states. _(done by roadmap bot, 2026-11-14)_
 - [x] Update functions.php to include browser-specific block style variations. _(done by roadmap bot, 2026-11-14)_
 - [ ] Create patterns/testimonials.php to improve color contrast for testimonial text.
-- [ ] Update README.md to include documentation links and editor experience instructions.
+- [x] Update README.md to include documentation links and editor experience instructions. _(done by roadmap bot, 2026-11-14)_
