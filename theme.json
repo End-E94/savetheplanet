@@ -139,6 +139,9 @@
 					"color": {
 						"text": "var(--wp--preset--color--secondary)"
 					}
+				},
+				"typography": {
+					"textDecoration": "underline"
 				}
 			},
 			"button": {
