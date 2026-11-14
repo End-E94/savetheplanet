@@ -63,6 +63,6 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create patterns/donation-tiers.php with three columns each showing an amount and a donate button _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Add block style variations (card group and underlined heading) in functions.php _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Create languages/README.md explaining how to translate the theme _(done by roadmap bot, 2026-11-13, built-in)_
-- [ ] Add fluid heading size presets to theme.json
+- [x] Add fluid heading size presets to theme.json _(done by roadmap bot, 2026-11-13, built-in)_
 - [ ] Add WooCommerce product grid spacing styles to theme.json
 - [ ] Add print styles to theme.json
