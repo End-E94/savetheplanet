@@ -85,4 +85,4 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create styles/high-contrast.json style variation with a high contrast color palette _(done by roadmap bot, 2026-11-14, built-in)_
 - [x] Create patterns/blog-posts-grid.php with a three-column grid of the latest posts _(done by roadmap bot, 2026-11-14, built-in)_
 - [x] Improve templates/single-product.html to use the header-shop template part _(done by roadmap bot, 2026-11-14, built-in)_
-- [ ] Improve templates/archive-product.html to use the header-shop template part
+- [x] Improve templates/archive-product.html to use the header-shop template part _(done by roadmap bot, 2026-11-14, built-in)_
