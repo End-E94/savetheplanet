@@ -39,7 +39,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create templates/page-cart.html with the WooCommerce cart block _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Create templates/page-checkout.html with the WooCommerce checkout block _(done by roadmap bot, 2026-11-13, built-in)_
 - [x] Create templates/order-confirmation.html with the WooCommerce order confirmation blocks _(done by roadmap bot, 2026-11-13, built-in)_
-- [ ] Create parts/header-shop.html with the site logo, navigation and the WooCommerce mini-cart block
+- [x] Create parts/header-shop.html with the site logo, navigation and the WooCommerce mini-cart block _(done by roadmap bot, 2026-11-13, built-in)_
 - [ ] Add WooCommerce block style rules for prices, sale badges and product buttons to theme.json
 
 ## WordPress.org readiness and coding standards
