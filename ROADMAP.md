@@ -138,6 +138,6 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Add WCAG 2.2 AA compliance to readme.txt _(done by roadmap bot, 2026-11-15)_
 
 ## Cycle 15 - 2026-11-15
-- [ ] Update patterns/blog-posts-grid.php for better browser compatibility
+- [x] Update patterns/blog-posts-grid.php for better browser compatibility _(done by roadmap bot, 2026-11-15)_
 - [ ] Create styles/high-contrast-light.json for improved color contrast
 - [ ] Create patterns/accessibility-landmarks.php for WCAG 2.2 AA compliance
