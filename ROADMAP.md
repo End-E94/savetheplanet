@@ -128,3 +128,6 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 ## Cycle 12 - 2026-11-15
 - [ ] Create styles/night-mode.json style variation
 - [x] Update patterns/testimonials.php for semantic HTML structure _(done by roadmap bot, 2026-11-15)_
+
+## Cycle 13 - 2026-11-15
+- [ ] Update patterns/blog-posts-grid.php for color contrast consistency
