@@ -117,5 +117,5 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [ ] Improve Update theme.json to include support for WordPress 6.6+ block patterns
 
 ## Cycle 10 - 2026-11-14
-- [ ] Update patterns/features-three-columns.php for reduced motion
+- [x] Update patterns/features-three-columns.php for reduced motion _(done by roadmap bot, 2026-11-14)_
 - [ ] Update theme.json for better block editor experience
