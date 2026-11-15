@@ -41,3 +41,10 @@ This theme bundles no third-party fonts, images or scripts.
 = 0.1.0 =
 * Initial release.
 
+
+WCAG 2.2 AA Compliance
+=====================
+
+This theme aims to meet the Web Content Accessibility Guidelines (WCAG) 2.2 AA standards. For more information, please visit the official WCAG website: https://www.w3.org/TR/WCAG22/
+
+We strive to make our theme accessible to everyone. If you find any issues or have suggestions, please don't hesitate to reach out to us at [support email].

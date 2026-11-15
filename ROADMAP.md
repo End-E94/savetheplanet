@@ -135,4 +135,4 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 ## Cycle 14 - 2026-11-15
 - [ ] Create styles/high-contrast-light.json style variation
 - [ ] Update theme.json for improved accessibility settings
-- [ ] Add WCAG 2.2 AA compliance to readme.txt
+- [x] Add WCAG 2.2 AA compliance to readme.txt _(done by roadmap bot, 2026-11-15)_
