@@ -141,3 +141,6 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Update patterns/blog-posts-grid.php for better browser compatibility _(done by roadmap bot, 2026-11-15)_
 - [ ] Create styles/high-contrast-light.json for improved color contrast
 - [ ] Create patterns/accessibility-landmarks.php for WCAG 2.2 AA compliance
+
+## Cycle 16 - 2026-11-15
+- [ ] Add Improve styles/dark.json for better browser compatibility with Chrome
