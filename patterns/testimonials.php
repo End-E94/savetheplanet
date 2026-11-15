@@ -29,3 +29,9 @@ wp_attributes_add( 'wp-block-quote', 'role="citation"', savetheplanet()->text_do
 
 // Add a class for screen reader support
 wp_attributes_add( 'wp-block-quote', 'class', 'wp-block-quote--citation' );
+
+>wp_attributes_add( 'wp-block-quote', 'aria-label', esc_html__( savetheplanet()->text_domain, savetheplanet() ) );
+
+>wp_attributes_add( 'wp-block-quote', 'aria-labelledby', esc_html__( savetheplanet()->text_domain, savetheplanet() ) );
+
+>wp_attributes_add( 'wp-block-quote', 'itemprop', esc_html__( savetheplanet()->text_domain, savetheplanet() ) );
