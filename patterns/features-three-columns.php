@@ -89,3 +89,40 @@
 																													<div class="wp-block-group">
 																														<div class="wp-block-column">
 																															<div
+
+<div class="wp-block-group--focus">
+	<div class="wp-block-column--focus">
+		<div class="wp-block-group--focus">
+			<div class="wp-block-column--focus">
+				<div class="wp-block-group--focus">
+					<div class="wp-block-column--focus">
+						<div class="wp-block-group--focus">
+							<div class="wp-block-column--focus">
+								<div class="wp-block-group--focus wp-block-group--is-focused">
+									<div class="wp-block-column--focus wp-block-column--is-focused">
+										<div class="wp-block-group--focus wp-block-group--is-focused">
+											<div class="wp-block-column--focus wp-block-column--is-focused">
+												<div class="wp-block-group--focus wp-block-group--is-focused">
+													<div class="wp-block-column--focus wp-block-column--is-focused">
+														<div class="wp-block-group--focus wp-block-group--is-focused">
+															<div class="wp-block-column--focus wp-block-column--is-focused">
+																<div class="wp-block-group--focus wp-block-group--is-focused">
+																	<span class="savetheplanet-focus-state-text" aria-hidden="true"></span>
+																	<span class="savetheplanet-focus-state-text savetheplanet-focus-state-text--active" aria-hidden="true"></span>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
