@@ -68,7 +68,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Add print styles to theme.json _(done by roadmap bot, 2026-11-13, built-in)_
 
 ## Cycle 4 - 2026-11-13
-- [ ] Update theme.json to include RTL languages support.
+- [x] Update theme.json to include RTL languages support. _(done by roadmap bot, 2026-11-14, built-in)_
 - [ ] Improve templates/search.html to include a skip link for keyboard navigation.
 - [ ] Update styles/dark.json to include reduced motion styles.
 - [x] Create templates/template-header.php to improve navigation templates. _(done by roadmap bot, 2026-11-14)_
