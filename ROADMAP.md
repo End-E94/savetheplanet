@@ -108,5 +108,5 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 ## Cycle 8 - 2026-11-14
 - [x] Add RTL language support to theme.json _(done by roadmap bot, 2026-11-14, built-in)_
 - [x] Update styles/high-contrast-dark.json for color contrast consistency _(done by roadmap bot, 2026-11-14, built-in)_
-- [ ] Update patterns/impact-stats.php for reduced motion
+- [x] Update patterns/impact-stats.php for reduced motion _(done by roadmap bot, 2026-11-14, built-in)_
 - [ ] Improve styles/sand.json for better browser compatibility
