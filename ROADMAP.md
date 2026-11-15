@@ -110,3 +110,8 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Update styles/high-contrast-dark.json for color contrast consistency _(done by roadmap bot, 2026-11-14, built-in)_
 - [x] Update patterns/impact-stats.php for reduced motion _(done by roadmap bot, 2026-11-14, built-in)_
 - [x] Improve styles/sand.json for better browser compatibility _(done by roadmap bot, 2026-11-14, built-in)_
+
+## Cycle 9 - 2026-11-14
+- [ ] Update Create styles/high-contrast.json for color contrast consistency
+- [ ] Update Create patterns/testimonials.php for accessible testimonial layout
+- [ ] Improve Update theme.json to include support for WordPress 6.6+ block patterns
