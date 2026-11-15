@@ -119,3 +119,8 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 ## Cycle 10 - 2026-11-14
 - [x] Update patterns/features-three-columns.php for reduced motion _(done by roadmap bot, 2026-11-14)_
 - [ ] Update theme.json for better block editor experience
+
+## Cycle 11 - 2026-11-15
+- [ ] Update theme.json to include WCAG 2.2 AA guidelines
+- [ ] Create patterns/accessibility.php for accessibility features
+- [ ] Update patterns/features-three-columns.php for improved focus states
