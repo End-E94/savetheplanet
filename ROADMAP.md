@@ -70,7 +70,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 ## Cycle 4 - 2026-11-13
 - [x] Update theme.json to include RTL languages support. _(done by roadmap bot, 2026-11-14, built-in)_
 - [x] Improve templates/search.html to include a skip link for keyboard navigation. _(done by roadmap bot, 2026-11-14, built-in)_
-- [ ] Update styles/dark.json to include reduced motion styles.
+- [x] Update styles/dark.json to include reduced motion styles. _(done by roadmap bot, 2026-11-14, built-in)_
 - [x] Create templates/template-header.php to improve navigation templates. _(done by roadmap bot, 2026-11-14)_
 - [x] Improve parts/footer.html to include ARIA attributes for focus states. _(done by roadmap bot, 2026-11-14)_
 - [x] Update functions.php to include browser-specific block style variations. _(done by roadmap bot, 2026-11-14)_
