@@ -124,3 +124,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [ ] Update theme.json to include WCAG 2.2 AA guidelines
 - [ ] Create patterns/accessibility.php for accessibility features
 - [x] Update patterns/features-three-columns.php for improved focus states _(done by roadmap bot, 2026-11-15)_
+
+## Cycle 12 - 2026-11-15
+- [ ] Create styles/night-mode.json style variation
+- [ ] Update patterns/testimonials.php for semantic HTML structure
