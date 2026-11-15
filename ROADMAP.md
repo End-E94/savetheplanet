@@ -131,3 +131,8 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 
 ## Cycle 13 - 2026-11-15
 - [ ] Update patterns/blog-posts-grid.php for color contrast consistency
+
+## Cycle 14 - 2026-11-15
+- [ ] Create styles/high-contrast-light.json style variation
+- [ ] Update theme.json for improved accessibility settings
+- [ ] Add WCAG 2.2 AA compliance to readme.txt
