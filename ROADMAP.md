@@ -97,7 +97,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Update README.md with a list of the included block patterns and style variations _(done by roadmap bot, 2026-11-14, built-in)_
 
 ## Cycle 7 - 2026-11-14
-- [ ] Add RTL languages support to theme.json
+- [x] Add RTL languages support to theme.json _(done by roadmap bot, 2026-11-14, built-in)_
 - [x] Improve accessibility of patterns/hero.php with reduced motion _(done by roadmap bot, 2026-11-14, built-in)_
 - [x] Update functions.php to use PHP 7.4+ coding standards _(done by roadmap bot, 2026-11-14)_
 - [x] Create styles/high-contrast-dark.json style variation with dark high contrast color palette _(done by roadmap bot, 2026-11-14, built-in)_
