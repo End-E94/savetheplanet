@@ -154,3 +154,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 
 ## Cycle 19 - 2026-11-16
 - [ ] Improve browser compatibility for styles/high-contrast-dark.json
+
+## Cycle 20 - 2026-11-16
+- [ ] Update patterns/testimonials.php for semantic image alt text
+- [ ] Add WCAG 2.2 AA compliance to patterns/testimonials.php
