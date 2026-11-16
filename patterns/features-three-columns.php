@@ -126,3 +126,8 @@
 		</div>
 	</div>
 </div>
+
+<div class="savetheplanet-aria-hidden">
+	<span class="savetheplanet-focus-state-text" aria-hidden="true"></span>
+	<span class="savetheplanet-focus-state-text savetheplanet-focus-state-text--active" aria-hidden="true"></span>
+</div>
