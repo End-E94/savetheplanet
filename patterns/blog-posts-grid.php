@@ -223,3 +223,84 @@
 * 
 * 
 *
+
+* 
+* Add semantic HTML structure and browser compatibility
+* 
+* savetheplanet_ the_post(); // Output buffer
+* savetheplanet_ the_title(); // Output buffer
+* savetheplanet_ the_excerpt(); // Output buffer
+* savetheplanet_ the_content(); // Output buffer
+* savetheplanet_ the_time(); // Output buffer
+* savetheplanet_ the_date(); // Output buffer
+* savetheplanet_ the_author(); // Output buffer
+* savetheplanet_ the_commenter(); // Output buffer
+* savetheplanet_ the_comment(); // Output buffer
+* savetheplanet_ the_comment_text(); // Output buffer
+* savetheplanet_ wp_list_comments(); // Output buffer
+* 
+* savetheplanet_ class="entry-grid" // Add semantic class
+* savetheplanet_>
+* 
+* savetheplanet_ class="entry-grid__item" // Add semantic class
+* savetheplanet_>
+* 
+* savetheplanet_>
+* 
+* savetheplanet_ class="entry-grid__item" // Add semantic class
+* savetheplanet_>
+* 
+* savetheplanet_>
+* 
+* savetheplanet_>
+* 
+* savetheplanet_>
+* 
+* savetheplanet_>
+* 
+* savetheplanet_>
+* 
+* savetheplanet_>
+* 
+* savetheplanet_>
+* 
+* savetheplanet_>
+* 
+* savetheplanet_>
+* 
+* savetheplanet_>
+* 
+* savetheplanet_>
+* 
+* savetheplanet_>
+* 
+* savetheplanet_>
+* 
+* savetheplanet_>
+* 
+* savetheplanet_>
+* 
+* savetheplanet_>
+* 
+* savetheplanet_>
+* 
+* savetheplanet_>
+* 
+* savetheplanet_>
+* 
+* savetheplanet_>
+* 
+* savetheplanet_>
+* 
+* savetheplanet_>
+* 
+* savetheplanet_>
+* 
+* savetheplanet_>
+* 
+* savetheplanet_>
+* 
+* savetheplanet_>
+* 
+* savetheplanet_>
+*
