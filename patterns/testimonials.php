@@ -43,3 +43,7 @@ wp_attributes_add( 'wp-block-quote', 'class', 'wp-block-quote--citation' );
 wp_attributes_add( 'wp-block-quote', 'aria-label', esc_html__( savetheplanet()->text_domain, savetheplanet() ) );
 wp_attributes_add( 'wp-block-quote', 'aria-labelledby', esc_html__( savetheplanet()->text_domain, savetheplanet() ) );
 wp_attributes_add( 'wp-block-quote', 'itemprop', esc_html__( savetheplanet()->text_domain, savetheplanet() ) );
+
+// Add alt text for images
+wp_attributes_add( 'wp-block-quote', 'alt', esc_html__( savetheplanet()->text_domain, savetheplanet() ) );
+wp_attributes_add( 'wp-block-quote', 'aria-describedby', esc_html__( savetheplanet()->text_domain, savetheplanet() ) );
