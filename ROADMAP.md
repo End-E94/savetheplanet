@@ -157,4 +157,4 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 
 ## Cycle 20 - 2026-11-16
 - [x] Update patterns/testimonials.php for semantic image alt text _(done by roadmap bot, 2026-11-16)_
-- [ ] Add WCAG 2.2 AA compliance to patterns/testimonials.php
+- [x] Add WCAG 2.2 AA compliance to patterns/testimonials.php _(done by roadmap bot, 2026-11-16)_
