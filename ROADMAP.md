@@ -151,3 +151,6 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 
 ## Cycle 18 - 2026-11-16
 - [x] Improve readable text sizes for patterns/testimonials.php _(done by roadmap bot, 2026-11-16)_
+
+## Cycle 19 - 2026-11-16
+- [ ] Improve browser compatibility for styles/high-contrast-dark.json
