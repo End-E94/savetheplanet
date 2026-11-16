@@ -146,5 +146,5 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [ ] Add Improve styles/dark.json for better browser compatibility with Chrome
 
 ## Cycle 17 - 2026-11-15
-- [ ] Update readme.txt for accessibility-ready certification
+- [x] Update readme.txt for accessibility-ready certification _(done by roadmap bot, 2026-11-15)_
 - [ ] Update patterns/blog-posts-grid.php for semantic HTML structure and browser compatibility
