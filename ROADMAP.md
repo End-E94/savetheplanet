@@ -150,4 +150,4 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Update patterns/blog-posts-grid.php for semantic HTML structure and browser compatibility _(done by roadmap bot, 2026-11-15)_
 
 ## Cycle 18 - 2026-11-16
-- [ ] Improve readable text sizes for patterns/testimonials.php
+- [x] Improve readable text sizes for patterns/testimonials.php _(done by roadmap bot, 2026-11-16)_
