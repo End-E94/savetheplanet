@@ -47,3 +47,10 @@ wp_attributes_add( 'wp-block-quote', 'itemprop', esc_html__( savetheplanet()->te
 // Add alt text for images
 wp_attributes_add( 'wp-block-quote', 'alt', esc_html__( savetheplanet()->text_domain, savetheplanet() ) );
 wp_attributes_add( 'wp-block-quote', 'aria-describedby', esc_html__( savetheplanet()->text_domain, savetheplanet() ) );
+
+wp_attributes_add( 'wp-block-quote', 'role', esc_html__( savetheplanet()->text_domain, savetheplanet() ) );
+wp_attributes_add( 'wp-block-quote', 'aria-label', esc_html__( savetheplanet()->text_domain, savetheplanet() ) );
+wp_attributes_add( 'wp-block-quote', 'aria-describedby', esc_html__( savetheplanet()->text_domain, savetheplanet() ) );
+wp_attributes_add( 'wp-block-quote', 'aria-labelledby', esc_html__( savetheplanet()->text_domain, savetheplanet() ) );
+wp_attributes_add( 'wp-block-quote', 'itemprop', esc_html__( savetheplanet()->text_domain, savetheplanet() ) );
+wp_attributes_add( 'wp-block-quote', 'alt', esc_html__( savetheplanet()->text_domain, savetheplanet() ) );
