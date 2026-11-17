@@ -54,3 +54,7 @@ wp_attributes_add( 'wp-block-quote', 'aria-describedby', esc_html__( savetheplan
 wp_attributes_add( 'wp-block-quote', 'aria-labelledby', esc_html__( savetheplanet()->text_domain, savetheplanet() ) );
 wp_attributes_add( 'wp-block-quote', 'itemprop', esc_html__( savetheplanet()->text_domain, savetheplanet() ) );
 wp_attributes_add( 'wp-block-quote', 'alt', esc_html__( savetheplanet()->text_domain, savetheplanet() ) );
+
+wp_attributes_add( 'wp-block-quote', 'data-reduced-motion', esc_html__( savetheplanet()->text_domain, savetheplanet() ) );
+wp_attributes_add( 'wp-block-quote', 'data-reduced-motion-animation', esc_html__( savetheplanet()->text_domain, savetheplanet() ) );
+wp_attributes_add( 'wp-block-quote', 'data-reduced-motion-duration', esc_html__( savetheplanet()->text_domain, savetheplanet() ) );
