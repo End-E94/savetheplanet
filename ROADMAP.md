@@ -188,4 +188,4 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 
 ## Cycle 29 - 2026-11-17
 - [ ] Create styles/responsive-styles.json for responsive design
-- [ ] Improve patterns/features-three-columns.php for semantic table structure
+- [x] Improve patterns/features-three-columns.php for semantic table structure _(done by roadmap bot, 2026-11-17)_
