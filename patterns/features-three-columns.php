@@ -131,3 +131,26 @@
 	<span class="savetheplanet-focus-state-text" aria-hidden="true"></span>
 	<span class="savetheplanet-focus-state-text savetheplanet-focus-state-text--active" aria-hidden="true"></span>
 </div>
+
+<div class="savetheplanet-aria-hidden">
+	<span class="savetheplanet-focus-state-text" aria-hidden="true"></span>
+	<span class="savetheplanet-focus-state-text savetheplanet-focus-state-text--active" aria-hidden="true"></span>
+</div>
+<div class="savetheplanet-table">
+	<table class="savetheplanet-table__inner">
+		<thead>
+			<tr>
+				<th class="savetheplanet-table__header savetheplanet-table__header--first"></th>
+				<th class="savetheplanet-table__header savetheplanet-table__header--second"></th>
+				<th class="savetheplanet-table__header savetheplanet-table__header--third"></th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td class="savetheplanet-table__cell savetheplanet-table__cell--first"></td>
+				<td class="savetheplanet-table__cell savetheplanet-table__cell--second"></td>
+				<td class="savetheplanet-table__cell savetheplanet-table__cell--third"></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
