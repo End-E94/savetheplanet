@@ -185,3 +185,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 
 ## Cycle 28 - 2026-11-17
 - [x] Update patterns/impact-stats.php for semantic table structure _(done by roadmap bot, 2026-11-17)_
+
+## Cycle 29 - 2026-11-17
+- [ ] Create styles/responsive-styles.json for responsive design
+- [ ] Improve patterns/features-three-columns.php for semantic table structure
