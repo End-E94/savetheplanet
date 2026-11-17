@@ -162,3 +162,6 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 ## Cycle 21 - 2026-11-16
 - [ ] Update patterns/hero.php for semantic HTML structure
 - [x] Update patterns/features-three-columns.php for better browser compatibility _(done by roadmap bot, 2026-11-16)_
+
+## Cycle 22 - 2026-11-16
+- [ ] Update patterns/blog-posts-grid.php for semantic image alt text
