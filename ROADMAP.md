@@ -171,4 +171,4 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 
 ## Cycle 24 - 2026-11-16
 - [x] Create styles/dark-mode-toggle.json for dark mode toggle _(done by roadmap bot, 2026-11-16)_
-- [ ] Update readme.txt for better documentation and links
+- [x] Update readme.txt for better documentation and links _(done by roadmap bot, 2026-11-16)_

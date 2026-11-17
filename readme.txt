@@ -63,3 +63,23 @@ Accessibility Features
 * Screen reader support for major screen readers
 * Keyboard navigation enabled
 * Clear and consistent navigation and layout
+
+License
+-------
+
+This project is licensed under the GNU General Public License v2.0. See [LICENSE](LICENSE) for more information.
+
+Contributing
+------------
+
+Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request. For more information, please see the [CONTRIBUTING](CONTRIBUTING.md) file.
+
+Changelog
+----------
+
+For a list of all releases, please see the [CHANGELOG](CHANGELOG.md) file.
+
+Authors
+-------
+
+* [Your Name](mailto:your.email@example.com)
