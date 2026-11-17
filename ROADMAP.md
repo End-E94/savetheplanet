@@ -184,4 +184,4 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [ ] Improve documentation for styles/dark-mode-toggle.json
 
 ## Cycle 28 - 2026-11-17
-- [ ] Update patterns/impact-stats.php for semantic table structure
+- [x] Update patterns/impact-stats.php for semantic table structure _(done by roadmap bot, 2026-11-17)_
