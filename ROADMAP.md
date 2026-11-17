@@ -195,5 +195,5 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [ ] Update patterns/faq.php for semantic landmark structure
 
 ## Cycle 31 - 2026-11-17
-- [ ] Improve patterns/testimonials.php for reduced motion animation
+- [x] Improve patterns/testimonials.php for reduced motion animation _(done by roadmap bot, 2026-11-17)_
 - [ ] Update patterns/team-members.php for focus states on team member names
