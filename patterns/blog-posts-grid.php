@@ -304,3 +304,65 @@
 * 
 * savetheplanet_>
 *
+
+?php
+savetheplanet_*
+savetheplanet_( 'alt' );
+savetheplanet_*
+savetheplanet_( 'image' );
+savetheplanet_*
+savetheplanet_( 'src' );
+savetheplanet_*
+savetheplanet_( 'alt' );
+savetheplanet_*
+savetheplanet_( 'src' );
+savetheplanet_*
+savetheplanet_( 'alt' );
+savetheplanet_*
+savetheplanet_( 'src' );
+savetheplanet_*
+savetheplanet_( 'alt' );
+savetheplanet_*
+savetheplanet_( 'src' );
+savetheplanet_*
+savetheplanet_( 'alt' );
+savetheplanet_*
+savetheplanet_( 'src' );
+savetheplanet_*
+savetheplanet_( 'alt' );
+savetheplanet_*
+savetheplanet_( 'src' );
+savetheplanet_*
+savetheplanet_( 'alt' );
+savetheplanet_*
+savetheplanet_( 'src' );
+savetheplanet_*
+savetheplanet_( 'alt' );
+savetheplanet_*
+savetheplanet_( 'src' );
+savetheplanet_*
+savetheplanet_( 'alt' );
+savetheplanet_*
+savetheplanet_( 'src' );
+savetheplanet_*
+savetheplanet_( 'alt' );
+savetheplanet_*
+savetheplanet_( 'src' );
+savetheplanet_*
+savetheplanet_( 'alt' );
+savetheplanet_*
+savetheplanet_( 'src' );
+savetheplanet_*
+savetheplanet_( 'alt' );
+savetheplanet_*
+savetheplanet_( 'src' );
+savetheplanet_*
+savetheplanet_( 'alt' );
+savetheplanet_*
+savetheplanet_( 'src' );
+savetheplanet_*
+savetheplanet_( 'alt' );
+savetheplanet_*
+savetheplanet_( 'src' );
+savetheplanet_*
+savetheplanet
