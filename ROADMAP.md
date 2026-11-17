@@ -178,3 +178,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 
 ## Cycle 26 - 2026-11-17
 - [x] Update readme.txt for better browser compatibility notes _(done by roadmap bot, 2026-11-17)_
+
+## Cycle 27 - 2026-11-17
+- [ ] Improve readable text sizes for patterns/features-three-columns.php
+- [ ] Improve documentation for styles/dark-mode-toggle.json
