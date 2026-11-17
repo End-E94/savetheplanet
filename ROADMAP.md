@@ -165,3 +165,6 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 
 ## Cycle 22 - 2026-11-16
 - [x] Update patterns/blog-posts-grid.php for semantic image alt text _(done by roadmap bot, 2026-11-16)_
+
+## Cycle 23 - 2026-11-16
+- [ ] Improve focus states for patterns/hero.php
