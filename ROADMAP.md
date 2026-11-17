@@ -193,3 +193,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 ## Cycle 30 - 2026-11-17
 - [ ] Add semantic table structure to patterns/donation-tiers.php
 - [ ] Update patterns/faq.php for semantic landmark structure
+
+## Cycle 31 - 2026-11-17
+- [ ] Improve patterns/testimonials.php for reduced motion animation
+- [ ] Update patterns/team-members.php for focus states on team member names
