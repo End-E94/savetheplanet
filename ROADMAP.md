@@ -168,3 +168,7 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 
 ## Cycle 23 - 2026-11-16
 - [ ] Improve focus states for patterns/hero.php
+
+## Cycle 24 - 2026-11-16
+- [ ] Create styles/dark-mode-toggle.json for dark mode toggle
+- [ ] Update readme.txt for better documentation and links
