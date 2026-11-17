@@ -182,3 +182,6 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 ## Cycle 27 - 2026-11-17
 - [ ] Improve readable text sizes for patterns/features-three-columns.php
 - [ ] Improve documentation for styles/dark-mode-toggle.json
+
+## Cycle 28 - 2026-11-17
+- [ ] Update patterns/impact-stats.php for semantic table structure
