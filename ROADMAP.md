@@ -74,7 +74,6 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Create templates/template-header.php to improve navigation templates. _(done by roadmap bot, 2026-11-14)_
 - [x] Improve parts/footer.html to include ARIA attributes for focus states. _(done by roadmap bot, 2026-11-14)_
 - [x] Update functions.php to include browser-specific block style variations. _(done by roadmap bot, 2026-11-14)_
-- [ ] Create patterns/testimonials.php to improve color contrast for testimonial text.
 - [x] Update README.md to include documentation links and editor experience instructions. _(done by roadmap bot, 2026-11-14)_
 
 ## Cycle 5 - 2026-11-14
@@ -112,38 +111,26 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Improve styles/sand.json for better browser compatibility _(done by roadmap bot, 2026-11-14, built-in)_
 
 ## Cycle 9 - 2026-11-14
-- [ ] Update Create styles/high-contrast.json for color contrast consistency
 - [x] Update Create patterns/testimonials.php for accessible testimonial layout _(done by roadmap bot, 2026-11-14)_
-- [ ] Improve Update theme.json to include support for WordPress 6.6+ block patterns
 
 ## Cycle 10 - 2026-11-14
 - [x] Update patterns/features-three-columns.php for reduced motion _(done by roadmap bot, 2026-11-14)_
-- [ ] Update theme.json for better block editor experience
 
 ## Cycle 11 - 2026-11-15
-- [ ] Update theme.json to include WCAG 2.2 AA guidelines
-- [ ] Create patterns/accessibility.php for accessibility features
 - [x] Update patterns/features-three-columns.php for improved focus states _(done by roadmap bot, 2026-11-15)_
 
 ## Cycle 12 - 2026-11-15
-- [ ] Create styles/night-mode.json style variation
 - [x] Update patterns/testimonials.php for semantic HTML structure _(done by roadmap bot, 2026-11-15)_
 
 ## Cycle 13 - 2026-11-15
-- [ ] Update patterns/blog-posts-grid.php for color contrast consistency
 
 ## Cycle 14 - 2026-11-15
-- [ ] Create styles/high-contrast-light.json style variation
-- [ ] Update theme.json for improved accessibility settings
 - [x] Add WCAG 2.2 AA compliance to readme.txt _(done by roadmap bot, 2026-11-15)_
 
 ## Cycle 15 - 2026-11-15
 - [x] Update patterns/blog-posts-grid.php for better browser compatibility _(done by roadmap bot, 2026-11-15)_
-- [ ] Create styles/high-contrast-light.json for improved color contrast
-- [ ] Create patterns/accessibility-landmarks.php for WCAG 2.2 AA compliance
 
 ## Cycle 16 - 2026-11-15
-- [ ] Add Improve styles/dark.json for better browser compatibility with Chrome
 
 ## Cycle 17 - 2026-11-15
 - [x] Update readme.txt for accessibility-ready certification _(done by roadmap bot, 2026-11-15)_
@@ -153,47 +140,37 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [x] Improve readable text sizes for patterns/testimonials.php _(done by roadmap bot, 2026-11-16)_
 
 ## Cycle 19 - 2026-11-16
-- [ ] Improve browser compatibility for styles/high-contrast-dark.json
 
 ## Cycle 20 - 2026-11-16
 - [x] Update patterns/testimonials.php for semantic image alt text _(done by roadmap bot, 2026-11-16)_
 - [x] Add WCAG 2.2 AA compliance to patterns/testimonials.php _(done by roadmap bot, 2026-11-16)_
 
 ## Cycle 21 - 2026-11-16
-- [ ] Update patterns/hero.php for semantic HTML structure
 - [x] Update patterns/features-three-columns.php for better browser compatibility _(done by roadmap bot, 2026-11-16)_
 
 ## Cycle 22 - 2026-11-16
 - [x] Update patterns/blog-posts-grid.php for semantic image alt text _(done by roadmap bot, 2026-11-16)_
 
 ## Cycle 23 - 2026-11-16
-- [ ] Improve focus states for patterns/hero.php
 
 ## Cycle 24 - 2026-11-16
 - [x] Create styles/dark-mode-toggle.json for dark mode toggle _(done by roadmap bot, 2026-11-16)_
 - [x] Update readme.txt for better documentation and links _(done by roadmap bot, 2026-11-16)_
 
 ## Cycle 25 - 2026-11-16
-- [ ] Create styles/dark-mode-toggle-alt.json for alternative dark mode toggle
 
 ## Cycle 26 - 2026-11-17
 - [x] Update readme.txt for better browser compatibility notes _(done by roadmap bot, 2026-11-17)_
 
 ## Cycle 27 - 2026-11-17
-- [ ] Improve readable text sizes for patterns/features-three-columns.php
-- [ ] Improve documentation for styles/dark-mode-toggle.json
 
 ## Cycle 28 - 2026-11-17
 - [x] Update patterns/impact-stats.php for semantic table structure _(done by roadmap bot, 2026-11-17)_
 
 ## Cycle 29 - 2026-11-17
-- [ ] Create styles/responsive-styles.json for responsive design
 - [x] Improve patterns/features-three-columns.php for semantic table structure _(done by roadmap bot, 2026-11-17)_
 
 ## Cycle 30 - 2026-11-17
-- [ ] Add semantic table structure to patterns/donation-tiers.php
-- [ ] Update patterns/faq.php for semantic landmark structure
 
 ## Cycle 31 - 2026-11-17
 - [x] Improve patterns/testimonials.php for reduced motion animation _(done by roadmap bot, 2026-11-17)_
-- [ ] Update patterns/team-members.php for focus states on team member names
