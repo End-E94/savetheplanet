@@ -83,3 +83,10 @@ Authors
 -------
 
 * [Your Name](mailto:your.email@example.com)
+
+Browser Compatibility Notes
+---------------------------
+
+* For better browser compatibility, ensure your browser supports modern CSS features, such as flexbox and grid.
+* The theme uses the `wp_body_open` filter to ensure compatibility with older browsers. If you're experiencing issues, try adding `add_filter('wp_body_open', 'savetheplanet_wp_body_open');` to your theme's functions.php file.
+* For a more robust solution, consider using a polyfill library like `wp Polyfill` to cover older browsers.

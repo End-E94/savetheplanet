@@ -177,4 +177,4 @@ Each item is one small task that changes a single file. The roadmap bot ticks it
 - [ ] Create styles/dark-mode-toggle-alt.json for alternative dark mode toggle
 
 ## Cycle 26 - 2026-11-17
-- [ ] Update readme.txt for better browser compatibility notes
+- [x] Update readme.txt for better browser compatibility notes _(done by roadmap bot, 2026-11-17)_
